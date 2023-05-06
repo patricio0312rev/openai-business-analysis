@@ -15,7 +15,6 @@ const OpenAITest = () => {
       max_tokens: 200,
     });
     
-    console.log("response", response.data.choices[0].text);
     setResult(response.data.choices[0].text);
   };
 
@@ -26,7 +25,6 @@ const OpenAITest = () => {
     try {
       request();
     } catch (e) {
-      //console.log(e);
       setResult("Something is going wrong, Please try again.");
     }
   };
