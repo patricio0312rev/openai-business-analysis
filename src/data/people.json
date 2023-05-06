@@ -1,0 +1,73 @@
+[
+    {
+      "age": 20,
+      "gender": "female",
+      "marital_status": "single",
+      "income": 20000,
+      "monthly_expense": 5000
+    },
+    {
+      "age": 30,
+      "gender": "male",
+      "marital_status": "married",
+      "income": 40000,
+      "monthly_expense": 8000
+    },
+    {
+      "age": 25,
+      "gender": "female",
+      "marital_status": "single",
+      "income": 30000,
+      "monthly_expense": 6000
+    },
+    {
+      "age": 40,
+      "gender": "male",
+      "marital_status": "married",
+      "income": 60000,
+      "monthly_expense": 10000
+    },
+    {
+      "age": 22,
+      "gender": "female",
+      "marital_status": "single",
+      "income": 25000,
+      "monthly_expense": 5500
+    },
+    {
+      "age": 35,
+      "gender": "male",
+      "marital_status": "married",
+      "income": 45000,
+      "monthly_expense": 9000
+    },
+    {
+      "age": 28,
+      "gender": "female",
+      "marital_status": "married",
+      "income": 35000,
+      "monthly_expense": 7000
+    },
+    {
+      "age": 45,
+      "gender": "male",
+      "marital_status": "married",
+      "income": 80000,
+      "monthly_expense": 15000
+    },
+    {
+      "age": 32,
+      "gender": "female",
+      "marital_status": "single",
+      "income": 40000,
+      "monthly_expense": 8000
+    },
+    {
+      "age": 50,
+      "gender": "male",
+      "marital_status": "widow",
+      "income": 50000,
+      "monthly_expense": 10000
+    }
+  ]
+  
